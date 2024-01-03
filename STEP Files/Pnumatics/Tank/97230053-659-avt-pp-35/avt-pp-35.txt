@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"AVT-PP-35";"";
+"TraceParts.PartVersion";"1.0.5";"";
+"SUPPLIER";"Clippard Minimatic";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-20022015-101355";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Polypropylene Air Volume Tank, 35 Volume Cubic In. Max 125 PSI";"";
+"TraceParts.InstanceId";"10-20022015-10135589R27TA0FMO4CISB5QX8VZ8WO";"";
+"TraceParts.PartTitle";"Polypropylene Air Volume Tank";"";
+"OMNICLASS23";"23.27.33.00";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"CLIPPARD:10-20022015-101355";"";
